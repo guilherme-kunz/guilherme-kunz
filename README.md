@@ -3,6 +3,6 @@
 
 ### Code is poetry.
 
-Apenas um desenvolvedor Android pronto para mostrar suas habilidades!
+Just an Android developer ready to show his skills!
 
 🚀
